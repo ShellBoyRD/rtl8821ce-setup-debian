@@ -3,7 +3,8 @@
 ## WARNING WILL REBOOT PC TO ACTIVATE DRIVER
 
 
-    <git clone github.com/ShellBoyRD/rtl8821ce-setup-debian.bash
+    <
+    git clone github.com/ShellBoyRD/rtl8821ce-setup-debian.bash
     cd rtl8821ce-setup-debian.bash
     sudo chmod +x rtl8821ce-setup-debian.bash
-    sudo ./rtl8821ce-setup-debian.bash>
+    sudo ./rtl8821ce-setup-debian.bash >
